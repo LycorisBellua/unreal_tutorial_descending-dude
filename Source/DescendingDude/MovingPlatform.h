@@ -1,4 +1,4 @@
-// Mofumofu Studios © All Rights Reserved
+// Lycoris Bellua Â© All Rights Reserved
 
 #pragma once
 
