@@ -5,7 +5,9 @@
 
 3D obstacle mini-game made with Unreal Engine 5.3.2. Don't fall off!  
 
-C++ project made following [the UE5 "Obstacle Assault" tutorial by Gamedev.tv](https://www.gamedev.tv/courses/unreal-5-0-c-developer-learn-c-and-make-video-games).
+C++ project made following a beginner Unreal tutorial course by Gamedev.tv:  
+[UE5 C++ Developer: Code Your Own Unreal Games](https://gamedev.tv/courses/unreal-5-0-c-developer-learn-c-and-make-video-games)  
+superseded by [new version](https://gamedev.tv/courses/unreal-c-dev).  
 
 ![](./screenshot.png)
 
